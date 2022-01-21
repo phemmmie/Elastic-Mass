@@ -1,0 +1,2 @@
+New project life cycle for Mlops
+The integration of Machine Learning and Devops will be incuded
